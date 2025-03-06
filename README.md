@@ -1,2 +1,2 @@
 # BertModel
-A Bert Model
+Bert Model working with 2 different cases.
